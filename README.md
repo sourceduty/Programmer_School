@@ -1,6 +1,6 @@
 ![Programmer School](https://github.com/user-attachments/assets/e88c1948-2dcc-4eaf-b71d-5d4a4a28b8cd)
 
-> Learn how to develop a program in any code language.
+> Learn how to develop codes in any programming language. 
 
 #
 
